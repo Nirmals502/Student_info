@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "743809130652",
+    "firebase_url": "https://bucapp-a1b8d.firebaseio.com",
+    "project_id": "bucapp-a1b8d",
+    "storage_bucket": "bucapp-a1b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743809130652:android:6914eef32a4551c8",
+        "android_client_info": {
+          "package_name": "info.Studen_info.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743809130652-u6ikvkg62vvj91pubrkbk46imikeovgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.Studen_info.firebasenotifications",
+            "certificate_hash": "07a563834ffe2b43db2a92dae59fb866e41d103f"
+          }
+        },
+        {
+          "client_id": "743809130652-mdchh2lcgmd5imv1io72u79rono8ispp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxGh8tkaSBMw-Zpl5YV4oSFY4NI9FgMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743809130652-mdchh2lcgmd5imv1io72u79rono8ispp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
